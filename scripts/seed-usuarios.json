@@ -1,0 +1,57 @@
+[
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890001" },
+    "nombre": "Responsable de Producción",
+    "email": "produccion@ag.com",
+    "password": "produccion.ag",
+    "rol": "produccion"
+  },
+
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890002" },
+    "nombre": "Diseño Gráfico",
+    "email": "diseno@ag.com",
+    "password": "diseño.ag",
+    "rol": "diseno"
+  },
+
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890003" },
+    "nombre": "Preimpresión Técnica",
+    "email": "preimpresion@ag.com",
+    "password": "preimpresion.ag",
+    "rol": "preimpresion"
+  },
+
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890004" },
+    "nombre": "Operario de Impresión",
+    "email": "impresion@ag.com",
+    "password": "impresion.ag",
+    "rol": "impresion"
+  },
+
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890005" },
+    "nombre": "Operario de Manipulado",
+    "email": "manipulado@ag.com",
+    "password": "manipulado.ag",
+    "rol": "manipulado"
+  },
+
+  {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890006" },
+    "nombre": "Responsable de Logística",
+    "email": "logistica@ag.com",
+    "password": "logistica.ag",
+    "rol": "logistica"
+  },
+
+ {
+    "_id": { "$oid": "66f0a1b2c3d4e5f607890007" },
+    "nombre": "Operario Auxiliar",
+    "email": "auxiliar@ag.com",
+    "password": "auxiliar.ag",
+    "rol": "auxiliar"
+  }
+]

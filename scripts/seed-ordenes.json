@@ -1,0 +1,426 @@
+[
+  {
+    "cliente": {
+      "nombre": "Everloop"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4f0ea6f3b955a93346629"
+    },
+    "numeroOrden": "#0010",
+    "tipo": "Otros",
+    "cantidad": 350000,
+    "tecnicaImpresion": "Huecograbado",
+    "especificaciones": {
+      "ancho": 1500,
+      "alto": 500,
+      "soporte": "Cartón",
+      "gramaje": "350+ g/m²",
+      "tintas": "CMYK + Pantone",
+      "acabados": [
+        "Barniz UVI"
+      ],
+      "troquelado": true,
+      "numeroTroquel": "2389",
+      "manipuladoEspecial": true
+    },
+    "fechaEntrega": {
+      "$date": "2027-01-01T00:00:00.000Z"
+    },
+    "prioridad": "Normal",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Packaging oficial de Everloop. Contactar con Javi.",
+    "estado": "Diseño",
+    "createdAt": {
+      "$date": "2026-10-30T19:32:58.451Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T19:32:58.451Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Travesías Pirenaicas"
+    },
+    "incidencia": {
+      "activa": true
+    },
+    "_id": {
+      "$oid": "6ae4efe76f3b955a9334661f"
+    },
+    "numeroOrden": "#0009",
+    "tipo": "Folleto",
+    "cantidad": 100000,
+    "tecnicaImpresion": "Digital",
+    "especificaciones": {
+      "ancho": 297,
+      "alto": 420,
+      "soporte": "Papel estucado",
+      "gramaje": "90 g/m²",
+      "tintas": "Cuatricomía (CMYK)",
+      "acabados": [],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2027-03-02T00:00:00.000Z"
+    },
+    "prioridad": "Baja",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Contactar con Isa.",
+    "estado": "Impresión",
+    "createdAt": {
+      "$date": "2026-10-30T19:28:39.607Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:05:43.451Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Merchandising Legen - Dario"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4ef236f3b955a93346618"
+    },
+    "numeroOrden": "#0008",
+    "tipo": "Libro",
+    "cantidad": 1250,
+    "tecnicaImpresion": "Offset",
+    "especificaciones": {
+      "ancho": 110,
+      "alto": 180,
+      "soporte": "Papel mate",
+      "gramaje": "80 g/m²",
+      "tintas": "CMYK + Pantone",
+      "acabados": [
+        "Barniz UVI Mate"
+      ],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2026-12-01T00:00:00.000Z"
+    },
+    "prioridad": "Normal",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Barniz UVI Mate en la portada. Contactar con Barney Stinson.",
+    "estado": "Preimpresión",
+    "createdAt": {
+      "$date": "2026-10-30T19:25:23.185Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:03:09.338Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Sortilegios Weasley"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4ed30ae8c82bad97d4545"
+    },
+    "numeroOrden": "#0007",
+    "tipo": "Otros",
+    "cantidad": 2500,
+    "tecnicaImpresion": "Flexografía",
+    "especificaciones": {
+      "ancho": 110,
+      "alto": 100,
+      "soporte": "Otro",
+      "gramaje": "135 g/m²",
+      "tintas": "Tintas planas (Pantone)",
+      "acabados": [
+        "Barniz UVI Mate"
+      ],
+      "troquelado": true,
+      "numeroTroquel": "777",
+      "manipuladoEspecial": true
+    },
+    "fechaEntrega": {
+      "$date": "2027-01-17T00:00:00.000Z"
+    },
+    "prioridad": "Baja",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Etiquetas adhesivas en paquetes de 100. Contactar con George.",
+    "estado": "Impresión",
+    "createdAt": {
+      "$date": "2026-10-30T19:17:05.087Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:05:21.223Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Talleres Paco"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4eb94ae8c82bad97d453b"
+    },
+    "numeroOrden": "#0006",
+    "tipo": "Tarjeta",
+    "cantidad": 500,
+    "tecnicaImpresion": "Digital",
+    "especificaciones": {
+      "ancho": 85,
+      "alto": 55,
+      "soporte": "Cartulina",
+      "gramaje": "170 g/m²",
+      "tintas": "Cuatricomía (CMYK)",
+      "acabados": [
+        "Plastificado"
+      ],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2026-11-13T00:00:00.000Z"
+    },
+    "prioridad": "Normal",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "",
+    "estado": "Diseño",
+    "createdAt": {
+      "$date": "2026-10-30T19:10:12.436Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T19:10:32.213Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Peluquería Paquita"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4e43bae8c82bad97d4532"
+    },
+    "numeroOrden": "#0005",
+    "tipo": "Tarjeta",
+    "cantidad": 350,
+    "tecnicaImpresion": "Digital",
+    "especificaciones": {
+      "ancho": 85,
+      "alto": 55,
+      "soporte": "Papel mate",
+      "gramaje": "300 g/m²",
+      "tintas": "Cuatricomía (CMYK)",
+      "acabados": [
+        "Barniz UVI"
+      ],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2026-11-05T00:00:00.000Z"
+    },
+    "prioridad": "Urgente",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "",
+    "estado": "Preimpresión",
+    "createdAt": {
+      "$date": "2026-10-30T18:38:51.152Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:03:54.547Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Cervezas Ambar"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae4e30aae8c82bad97d452b"
+    },
+    "numeroOrden": "#0004",
+    "tipo": "Lona",
+    "cantidad": 10,
+    "tecnicaImpresion": "Digital Gran Formato",
+    "especificaciones": {
+      "ancho": 2000,
+      "alto": 3000,
+      "soporte": "PVC",
+      "gramaje": "350+ g/m²",
+      "tintas": "Cuatricomía (CMYK)",
+      "acabados": [],
+      "troquelado": true,
+      "numeroTroquel": "025",
+      "manipuladoEspecial": true
+    },
+    "fechaEntrega": {
+      "$date": "2026-12-15T00:00:00.000Z"
+    },
+    "prioridad": "Baja",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Enrolladas en paquetes de 2.",
+    "estado": "Manipulado",
+    "createdAt": {
+      "$date": "2026-10-30T18:33:46.419Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:03:25.450Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Revista Interestelar"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae3d462ae8c82bad97d4515"
+    },
+    "numeroOrden": "#0003",
+    "tipo": "Revista",
+    "cantidad": 10000,
+    "tecnicaImpresion": "Offset",
+    "especificaciones": {
+      "ancho": 210,
+      "alto": 297,
+      "soporte": "Papel estucado",
+      "gramaje": "80 g/m²",
+      "tintas": "CMYK + Pantone",
+      "acabados": [],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": true
+    },
+    "fechaEntrega": {
+      "$date": "2026-11-16T00:00:00.000Z"
+    },
+    "prioridad": "Normal",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Embolsado básico.",
+    "estado": "Diseño",
+    "createdAt": {
+      "$date": "2026-10-29T23:18:58.669Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-29T23:21:11.371Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Cafetería Manolillo"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae3d016ae8c82bad97d4501"
+    },
+    "numeroOrden": "#0002",
+    "tipo": "Folleto",
+    "cantidad": 50,
+    "tecnicaImpresion": "Offset",
+    "especificaciones": {
+      "ancho": 105,
+      "alto": 148,
+      "soporte": "Papel mate",
+      "gramaje": "170 g/m²",
+      "tintas": "CMYK + Pantone",
+      "acabados": [
+        "Barniz UVI Mate"
+      ],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2026-11-03T00:00:00.000Z"
+    },
+    "prioridad": "Urgente",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "Entregar a Manolo directamente.",
+    "estado": "Finalizado",
+    "createdAt": {
+      "$date": "2026-10-29T23:00:38.637Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:04:26.661Z"
+    }
+  },
+  {
+    "cliente": {
+      "nombre": "Estudio Kreator"
+    },
+    "incidencia": {
+      "activa": false
+    },
+    "_id": {
+      "$oid": "6ae3af8098dd7116002c3992"
+    },
+    "numeroOrden": "#0001",
+    "tipo": "Cartel",
+    "cantidad": 200,
+    "tecnicaImpresion": "Digital",
+    "especificaciones": {
+      "ancho": 594,
+      "alto": 841,
+      "soporte": "Papel estucado",
+      "gramaje": "115 g/m²",
+      "tintas": "Cuatricomía (CMYK)",
+      "acabados": [
+        "Plastificado"
+      ],
+      "troquelado": false,
+      "numeroTroquel": "",
+      "manipuladoEspecial": false
+    },
+    "fechaEntrega": {
+      "$date": "2026-11-10T00:00:00.000Z"
+    },
+    "prioridad": "Normal",
+    "responsable": {
+      "$oid": "66f0a1b2c3d4e5f607890001"
+    },
+    "observaciones": "",
+    "estado": "Finalizado",
+    "createdAt": {
+      "$date": "2026-10-29T20:41:37.004Z"
+    },
+    "updatedAt": {
+      "$date": "2026-10-30T20:05:33.919Z"
+    }
+  }
+]
